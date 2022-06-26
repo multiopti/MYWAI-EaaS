@@ -38,6 +38,6 @@ you are able to edit the details of your company
 
 ![](<.gitbook/assets/image (8).png>)
 
-8\) To see more details about your equipment, click on the magnifying glass symbol, as showed in the fgure
+8\) To see more details about your equipment, click on the magnifying glass symbol, as showed in the figure
 
 ![](<.gitbook/assets/image (9).png>)
